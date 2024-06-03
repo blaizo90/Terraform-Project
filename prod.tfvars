@@ -1,0 +1,5 @@
+ami-type = "ami-00beae93a2d981137"
+instance_type = "t3.micro"
+insatance-name = "Terraform-Demo-1-Prod"
+Env = "Prod"
+Team = "Prod-Team"

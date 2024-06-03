@@ -1,0 +1,5 @@
+ami-type = "ami-00beae93a2d981137"
+instance_type = "t2.small"
+insatance-name = "Terraform-Demo-1-Qa"
+Env = "Qa"
+Team = "Qa-Team"

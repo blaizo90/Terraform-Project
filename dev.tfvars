@@ -1,0 +1,5 @@
+ami-type = "ami-00beae93a2d981137"
+instance_type = "t2.nano"
+insatance-name = "Terraform-Demo-1-Dev"
+Env = "Dev"
+Team = "Dev-Team"
